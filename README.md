@@ -1,2 +1,2 @@
 # Rusty_PackageManager
-A PackageManager written in Rust
+A package manager written in Rust
